@@ -1,0 +1,1 @@
+docker exec -i chat_app_db mysql -h 127.0.0.1 -u root -proot chat_app
